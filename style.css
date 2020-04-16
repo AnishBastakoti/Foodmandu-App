@@ -1,0 +1,16 @@
+body{
+  font-family: "Open sans", arial;
+  background: #42f4b3;
+}
+
+}
+footer{
+  background-color: #72726e;
+  padding-top: 10px;
+  color: black;
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  text-align: center;
+}
