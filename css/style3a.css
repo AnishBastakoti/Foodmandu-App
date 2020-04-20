@@ -1,0 +1,134 @@
+.box1{
+  width: 100%;
+  background-color: black;
+  position: absolute;
+  margin-top: -19em;
+  height: auto;
+  text-align: justify;
+}
+.bottom-center{
+  margin-left: 3em;
+}
+.bottom-right{
+  margin-left: 3em;
+}
+.food-imge{
+  background-color: lightgrey;
+  min-width: 10%;
+  position: absolute;
+  margin-top: -14em;
+
+}
+.food-desc{
+  background-color: pink;
+  min-width:10%;
+  position: absolute;
+  margin-left: 4em;
+  margin-top: -14em;
+}
+
+.food-imge1{
+  background-color: lightgrey;
+  min-width: 10%;
+  position: absolute;
+  margin-top: -14em;
+  margin-left: 11em;
+
+}
+.food-desc1{
+  background-color: pink;
+  min-width:10%;
+  position: absolute;
+  margin-left: 15em;
+  margin-top: -14em;
+}
+.food-imge2{
+  background-color: lightgrey;
+  min-width: 10%;
+  position: absolute;
+  margin-left: 21em;
+  margin-top: -14em;
+
+}
+.food-desc2{
+  background-color: pink;
+  min-width:10%;
+  position: absolute;
+  margin-left: 25em;
+  margin-top: -14em;
+}
+
+
+.food-imge3{
+  background-color: lightgrey;
+  min-width: 10%;
+  position: absolute;
+  margin-top: -10em;
+
+}
+.food-desc3{
+  background-color: pink;
+  min-width:10%;
+  position: absolute;
+  margin-left: 4em;
+  margin-top: -10em;
+}
+
+.food-imge4{
+  background-color: lightgrey;
+  min-width: 10%;
+  position: absolute;
+  margin-top: -10em;
+  margin-left: 11em;
+
+}
+.food-desc4{
+  background-color: pink;
+  min-width:10%;
+  position: absolute;
+  margin-left: 15em;
+  margin-top: -10em;
+}
+.food-imge5{
+  background-color: lightgrey;
+  min-width: 10%;
+  position: absolute;
+  margin-left: 21em;
+  margin-top: -10em;
+
+}
+.food-desc5{
+  background-color: pink;
+  min-width:10%;
+  position: absolute;
+  margin-left: 25em;
+  margin-top: -10em;
+}
+
+footer{
+  position: absolute;
+  margin-top: -3.6em;
+  background-color: lightgrey;
+  width: 103%;
+  margin-left: -0.5em;
+}
+li:first-child{
+  color: blue;
+  cursor: pointer;
+}
+li:nth-child(2){
+  color: blue;
+  cursor: pointer;
+}
+li:nth-child(3){
+  color: blue;
+  cursor: pointer;
+}
+li:nth-child(4){
+  color: blue;
+  cursor: pointer;
+}
+li:last-child{
+  color: blue;
+  cursor: pointer;
+}
