@@ -132,3 +132,8 @@ li:last-child{
   color: blue;
   cursor: pointer;
 }
+
+h2 {
+  padding-top: 2em;
+  text-align: center;
+}
